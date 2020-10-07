@@ -11,16 +11,14 @@
 <img src="Me.jpg" widt="150" height="200" /><br>
 
 ## Gangadhar
---
---
---
---
---
+- I would like to demonstrate on introduction of Flink <br>
+
 ## Abhiteja
 - I would like to demonstrate on Flink API concepts <br>
 
 ## Yugandhar
-- I would like to demonstrate on creating simple Flink application
+- I would like to demonstrate on creating simple Flink application <br>
+
 ## Prasannakumar
 - I would like to demonstrate on Running Flink Program
 
