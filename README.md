@@ -28,12 +28,7 @@
 --
 --
 ## Yugandhar
-- The skill I would like to demonstrate is 
----
---
---
---
---
+- I would like to demonstrate on creating simple Flink application
 ## Prasannakumar
 - I would like to demonstrate on Running Flink Program
 
