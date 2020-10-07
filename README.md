@@ -11,9 +11,7 @@
 --
 --
 - Abhiteja<br>
---
---
---
+<img src="Me.jpg" widt="250" height="200" /><br>
 
 ## Gangadhar
 --
@@ -22,11 +20,8 @@
 --
 --
 ## Abhiteja
-- I would like to demonstrate on Flink API concepts
---
---
---
---
+- I would like to demonstrate on Flink API concepts <br>
+
 ## Yugandhar
 - I would like to demonstrate on creating simple Flink application
 ## Prasannakumar
