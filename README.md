@@ -21,7 +21,7 @@
 --
 ## Yugandhar
 
-- The skill i would like to demonstarte is Producer
+- The skill I would like to demonstrate is Producer
 ---
 --
 --
