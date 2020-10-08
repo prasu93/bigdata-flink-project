@@ -14,7 +14,7 @@
 - I would like to demonstrate on introduction of Flink <br>
 
 ## Abhiteja
-- I would like to demonstrate on Flink API concepts <br>
+- I would like to demonstrate on Flink Application - Factorial <br>
 
 ## Yugandhar
 - I would like to demonstrate on creating simple Flink application <br>
