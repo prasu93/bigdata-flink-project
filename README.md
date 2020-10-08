@@ -11,7 +11,7 @@
 <img src="Me.jpg" widt="150" height="200" /><br>
 
 ## Gangadhar
-- I would like to demonstrate on introduction of Flink <br>
+- I would like to demonstrate on Introduction to Flink, downloading, configuring and verifying the installation on windows  <br>
 
 ## Abhiteja
 - I would like to demonstrate on Flink Application - Factorial <br>
