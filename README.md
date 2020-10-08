@@ -17,7 +17,7 @@
 - I would like to demonstrate on Flink Application - Factorial <br>
 
 ## Yugandhar
-- I would like to demonstrate on creating simple Flink application <br>
+- I would like to demonstrate on Flink Application - Wordcount <br>
 
 ## Prasannakumar
 - I would like to demonstrate on Flink Application - Fibonacci series
