@@ -27,8 +27,9 @@
 * IntelliJ IDE
 * Net cat Installation Line: [https://nmap.org/download.html](https://nmap.org/download.html)
 ### Process and Commands:
-* Please refer the repo for source code Link:[]()
+* Please refer the repo for source code Link: [SocketWindowWordCount.java](SocketWindowWordCount.java)
 * **Maven Dependencies:** In order to run the Flink Application we need to import the Flink dependencies into the Maven Project
+* pom.xml file - [click here](pom.xml) for dependencies file
 * **IntelliJ:** It is IDE for development, Where we can run the .java code and see the respective wordcount output in a terminal
 
 * **Commands to run:** <br/> 
