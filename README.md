@@ -39,7 +39,21 @@
 <br>
 
 ## Prasannakumar
-- I would like to demonstrate on Flink Application - Fibonacci series
+### Demonstartion Skill:
+* Apache Flink Application on Fibonacci series
+### Prerequisites:
+* Apache Flink Installed (2.12 or 2.11)
+* Java Installed (Java8 or Java11)
+* IntelliJ IDE installed
+* NetCat Installated: [https://nmap.org/download.html](https://nmap.org/download.html)
+### Procedure and Commands:
+* Source Code:
+* IntelliJ:
+* Adding dependencies/external jars:
+* Commands:
+### Refernces:
+* [https://nmap.org/download.html](https://nmap.org/download.html)
+
 
 ## Jack
 - I would like to demonstrate on Flink Application - First Elements of a Dataset
