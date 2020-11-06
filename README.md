@@ -28,9 +28,12 @@
 * Net cat Installation Line: [https://nmap.org/download.html](https://nmap.org/download.html)
 ### Process and Commands:
 * Please refer the repo for source code Link:[]()
-* Maven Dependencies:
-* IntelliJ:
-* Commands to run:
+* **Maven Dependencies:** In order to run the Flink Application we need to import the Flink dependencies into the Maven Project
+* **IntelliJ:** It is IDE for development, Where we can run the .java code and see the respective wordcount output in a terminal
+
+* **Commands to run:** <br/> 
+To run the Net cat, ``` ncat -l 9000 ``` command must be used, where '-l' stands for listening at port 9000
+
 ### Refernces:
 * [https://github.com/apache/flink/edit/master/flink-examples/flink-examples-streaming/src/main/java/org/apache/flink/streaming/examples/socket/SocketWindowWordCount.java](https://github.com/apache/flink/edit/master/flink-examples/flink-examples-streaming/src/main/java/org/apache/flink/streaming/examples/socket/SocketWindowWordCount.java)
 * [https://nmap.org/download.html](https://nmap.org/download.html)
