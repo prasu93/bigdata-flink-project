@@ -19,7 +19,24 @@
 - I would like to demonstrate on Flink Application - Factorial <br>
 
 ## Yugandhar
-- I would like to demonstrate on Flink Application - Wordcount <br>
+### Demonstartion Skill:
+* WordCount Apache Flink Application
+### Prerequisites:
+* Apache Flink Installation (newer version)
+* Java Installation (java 8 or java 11)
+* IntelliJ IDE
+* Net cat Installation Line: [https://nmap.org/download.html](https://nmap.org/download.html)
+### Process and Commands:
+* Please refer the repo for source code Link:[]()
+* Maven Dependencies:
+* IntelliJ:
+* Commands to run:
+### Refernces:
+* [https://github.com/apache/flink/edit/master/flink-examples/flink-examples-streaming/src/main/java/org/apache/flink/streaming/examples/socket/SocketWindowWordCount.java](https://github.com/apache/flink/edit/master/flink-examples/flink-examples-streaming/src/main/java/org/apache/flink/streaming/examples/socket/SocketWindowWordCount.java)
+* [https://nmap.org/download.html](https://nmap.org/download.html)
+* [https://github.com/wuchong/my-flink-project](https://github.com/wuchong/my-flink-project)
+* [https://www.tutorialdocs.com/article/first-flink-app.html](https://www.tutorialdocs.com/article/first-flink-app.html)
+<br>
 
 ## Prasannakumar
 - I would like to demonstrate on Flink Application - Fibonacci series
