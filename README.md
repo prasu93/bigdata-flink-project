@@ -10,7 +10,33 @@
 <img src="FlinkGroup.PNG"/><br>
 
 ## Gangadhar
-- I would like to demonstrate on Introduction to Flink, downloading, configuring and verifying the installation on windows  <br>
+### Demonstartion Skill:
+* I would like to demonstrate on Introduction to Flink, downloading, configuring and verifying the installation on windows  <br>
+
+### Prerequisites:
+* Apache Flink Installed (2.12 or 2.11)
+* Java Installed (Java8 or Java11)
+* IntelliJ IDE installed
+* NetCat Installated: [https://nmap.org/download.html](https://nmap.org/download.html)
+
+### Introduction to Flink
+
+- Apache Flink is an Open source stream processing framework for distributed, high performance data streaming application.
+- Flink also provides batch processing, graph processing, Itearative proccessing for Machine learning applications. 
+- Flink is considered as the next-gen stream processing system. 
+- Flink offers substantially higher processing speeds to spark and hadoop.
+- Flink provides low latency and high throughput
+
+### Flink download.
+- Go to [apache Flink](https://flink.apache.org/downloads.html) link and select the latest available stable version and download it.
+- open powershell and untar the downloaded file using ``` tar -xvf <filename.tgz> ```.
+- Set up  system variable ``` FLINK_HOME ``` and configure it to the ``` C:\flink-1.11.2 ``` folder location and configure the path accordingly.
+
+
+### Refernces:
+* [https://www.tutorialdocs.com/article/first-flink-app.html](https://www.tutorialdocs.com/article/first-flink-app.html)
+* [https://nmap.org/download.html](https://nmap.org/download.html)
+* [https://ci.apache.org/projects/flink/flink-docs-release-1.9/getting-started/tutorials/local_setup.html](https://ci.apache.org/projects/flink/flink-docs-release-1.9/getting-started/tutorials/local_setup.html)
 
 ## Prasannakumar
 ### Demonstartion Skill:
