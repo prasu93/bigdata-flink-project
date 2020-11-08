@@ -37,11 +37,14 @@
 - Using IntelliJ create a new Maven project. 
 - When trying to create a new flink application for the first time. Create a new archetype by configuring the ``` GroupId ```, ```artifactId```, and ``` version ``` as specified in the below screenshot. Click "ok" and then click "finish". 
 <img src="https://github.com/prasu93/bigdata-flink-project/blob/main/archetypedetails.PNG" width="600" height="300"/>
-- After creating the archetype select the ``` flink archetype ``` from the list of available archetypes and create a Maven project. 
+
+- After creating the archetype select the ```flink archetype``` from the list of available archetypes and create a Maven project. 
 <img src="https://github.com/prasu93/bigdata-flink-project/blob/main/archetypeselection.PNG" width="600" height="300"/>
+
 - Go to the ```pom.xml``` file of the project to verify the availabilites of flink dependencies. 
 <img src="https://github.com/prasu93/bigdata-flink-project/blob/main/pom-flink.PNG" width="600" height="300"/>
-- Run the ncat server at the terminal using the command ``` ncat -l 9000 ```.
+
+- Run the ncat server at the terminal using the command ```ncat -l 9000```.
 - Create a sample java file and run the program. supply input at the terminal and verify the results at the output screen. 
 <img src="https://github.com/prasu93/bigdata-flink-project/blob/main/flink-inout.PNG" width="600" height="300"/>
 
