@@ -99,7 +99,27 @@ To run the Net cat, ``` ncat -l 9000 ``` command must be used, where '-l' stands
 <br>
 
 ## Abhiteja
-- I would like to demonstrate on Flink Application - Factorial <br>
+### Demonstartion Skill:
+* I would like to demonstrate on Flink Application - Factorial <br>
+### Prerequisites:
+* Apache Flink (2.12 or 2.11)
+* Java (Java8 or Java11)
+* IntelliJ IDE
+* NetCat: [https://nmap.org/download.html](https://nmap.org/download.html)
+### Procedure and Commands:
+* Open Intellij IDE and create a maven project with ```mvn archetype groupid: org.apache.flink and artifactid: flink-quickstart-java``` and give your flink project groupid, artifactid and package details.
+* Click on file and select new and create the main java file under the package structure of the project created above and the source code is available here: [Flink Factorial](Factorial.java)
+* Add dependencies or any external jars: flink-java, flink-streaming-java, flink-clients_, log4j-api, log4j-slf4j-impl, log4j-core
+* On successfull build, open the Local Terminal in IntelliJ IDE and command to run: ```ncat -l 9000```, that means it is listening on port 9000. 
+* Run the main class file, we can see the output for factorial series in java console.
+
+### Output:
+<img src="Fact.PNG" width="1000" height="400"/>
+
+### Refernces:
+* [https://nmap.org/download.html](https://nmap.org/download.html)
+* [https://github.com/wuchong/my-flink-project](https://github.com/wuchong/my-flink-project)
+* [https://www.tutorialdocs.com/article/first-flink-app.html](https://www.tutorialdocs.com/article/first-flink-app.html)
 
 ## Jack
 - I would like to demonstrate on Flink Application - First Elements of a Dataset
