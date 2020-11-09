@@ -127,7 +127,9 @@ To run the Net cat, ``` ncat -l 9000 ``` command must be used, where '-l' stands
 * [https://www.tutorialdocs.com/article/first-flink-app.html](https://www.tutorialdocs.com/article/first-flink-app.html)
 
 ## Jack
-I would like to demonstrate on Flink Application - First Elements of a Dataset
+
+### Demonstration Skill
+First Elements of a List on Apache Flink.
 
 ### Tools
 - IntelliJ
