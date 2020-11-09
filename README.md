@@ -130,6 +130,7 @@ To run the Net cat, ``` ncat -l 9000 ``` command must be used, where '-l' stands
 
 ### Demonstration Skill
 First Elements of a List on Apache Flink.
+Link to my personal repo where I first put my README together: https://github.com/JackWBeaver/big-data-flink-project
 
 ### Tools
 - IntelliJ
@@ -167,7 +168,7 @@ List<String> output = original.subList(0,4);
 System.out.println(output);
 ```
 <img src="Success1.PNG" width="600" height="300"/>
-Here is the link to my java file: [https://github.com/prasu93/bigdata-flink-project/blob/main/FirstElements.java](https://github.com/prasu93/bigdata-flink-project/blob/main/FirstElements.java)
+Here is the link to my java file: https://github.com/prasu93/bigdata-flink-project/blob/main/FirstElements.java
 
 After running your java code, open up a terminal and run ```ncat -l 9000``` to run NetCat on a local terminal at port 9000. This will be the final result: <br>
 <img src="Success2.PNG" width="600" height="300"/>
