@@ -48,6 +48,8 @@
 - Create a sample java file and run the program. supply input at the terminal and verify the results at the output screen. 
 <img src="https://github.com/prasu93/bigdata-flink-project/blob/main/flink-inout.PNG" width="600" height="300"/>
 
+Demonstration Video Link: [Click here](https://use.vg/lgo5Mq)
+
 ### Refernces:
 * [https://www.tutorialdocs.com/article/first-flink-app.html](https://www.tutorialdocs.com/article/first-flink-app.html)
 * [https://nmap.org/download.html](https://nmap.org/download.html)
