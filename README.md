@@ -87,7 +87,8 @@
 * **Maven Dependencies:** In order to run the Flink Application we need to import the Flink dependencies into the Maven Project
 * pom.xml file - [click here](pom.xml) for dependencies file
 * **IntelliJ:** It is IDE for development, Where we can run the .java code and see the respective wordcount output in a terminal
-
+### Code Snippet with output:
+![word_count](wordCount.PNG)
 * **Commands to run:** <br/> 
 To run the Net cat, ``` ncat -l 9000 ``` command must be used, where '-l' stands for listening at port 9000
 
