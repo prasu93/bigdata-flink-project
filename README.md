@@ -134,6 +134,7 @@ Link to my personal repo where I first put my README together: https://github.co
 
 ### Tools
 - IntelliJ
+- Java (version 8 or 11)
 - Git Bash
 - NetCat
 
