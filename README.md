@@ -91,6 +91,7 @@
 To run the Net cat, ``` ncat -l 9000 ``` command must be used, where '-l' stands for listening at port 9000
 ### Code Snippet with output:
 ![word_count](wordCount.PNG)
+### VidGrid Link:[https://use.vg/ueFa7Q](https://use.vg/ueFa7Q)
 ### Refernces:
 * [https://github.com/apache/flink/edit/master/flink-examples/flink-examples-streaming/src/main/java/org/apache/flink/streaming/examples/socket/SocketWindowWordCount.java](https://github.com/apache/flink/edit/master/flink-examples/flink-examples-streaming/src/main/java/org/apache/flink/streaming/examples/socket/SocketWindowWordCount.java)
 * [https://nmap.org/download.html](https://nmap.org/download.html)
